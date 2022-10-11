@@ -1,6 +1,3 @@
 this is a test for example
-<<<<<<< HEAD
 
 this is for seconed change
-=======
->>>>>>> 94307056d8c6078b16b5c712e66195383c66cebc
