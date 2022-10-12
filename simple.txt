@@ -2,4 +2,6 @@ this is a test for example
 
 this is for seconed change
 
-commit : recording status of index
+add commit for declare 
+
+and seconed added
